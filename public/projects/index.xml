@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Christopher Walters — Portfolio</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Christopher Walters — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyberforce DOE</title>
+      <link>http://localhost:1313/projects/cyberforce-doe/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cyberforce-doe/</guid>
+      <description>Autonomous car using Raspberry Pi, YOLO, NCNN models, Coral USB accelerator.</description>
+    </item>
+    <item>
+      <title>Mini Pilot</title>
+      <link>http://localhost:1313/projects/mini-pilot/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mini-pilot/</guid>
+      <description>Autonomous car using Raspberry Pi, YOLO, NCNN models, Coral USB accelerator.</description>
+    </item>
+    <item>
+      <title>Palettable</title>
+      <link>http://localhost:1313/projects/palettable/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/palettable/</guid>
+      <description>Art social media web app promoting collaboration for artists</description>
+    </item>
+    <item>
+      <title>Paokinator</title>
+      <link>http://localhost:1313/projects/paokinator/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/paokinator/</guid>
+      <description>Machine learning project clone of Akinator</description>
+    </item>
+    <item>
+      <title>Pytorch-Classification</title>
+      <link>http://localhost:1313/projects/pytorch-classification/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pytorch-classification/</guid>
+      <description>Machine learning using Pytorch for classifying dogs vs cats</description>
+    </item>
+    <item>
+      <title>SchedulEase</title>
+      <link>http://localhost:1313/projects/schedulease/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/schedulease/</guid>
+      <description>Seamless web application to schedule events using the Google API</description>
+    </item>
+    <item>
+      <title>War Running</title>
+      <link>http://localhost:1313/projects/war-running/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/war-running/</guid>
+      <description>WiFi beacon scanning extracts information like SSID, BSSID, Encryption, and channel</description>
+    </item>
+  </channel>
+</rss>

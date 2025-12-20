@@ -1,0 +1,23 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Christopher Walters — Portfolio"
+theme = ""
+# Use minify
+enableRobotsTXT = true
+
+
+[params]
+author = "Christopher Walters"
+description = "Cybersecurity engineer & embedded systems developer"
+dateFormat = "Jan 2, 2006"
+github = "https://github.com/yourusername"
+linkedin = "https://www.linkedin.com/in/yourusername"
+email = "you@example.com"
+
+
+[outputs]
+home = ["HTML", "RSS"]
+
+
+[permalinks]
+projects = "/projects/:slug/"

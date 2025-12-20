@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<section class="projects-page">
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Params.description }}</p>
+
+  <section class="projects-grid">
+    {{ range .Pages }}
+      <article class="project">
+        <a href="{{ .RelPermalink }}">
+          {{ with .Params.image }}
+            <img src="{{ . }}" alt="{{ $.Title }}">
+          {{ end }}
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Params.summary }}</p>
+        </a>
+      </article>
+    {{ end }}
+  </section>
+</section>
+
+{{ end }}

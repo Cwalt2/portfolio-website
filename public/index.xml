@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Christopher Walters — Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Christopher Walters — Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyberforce</title>
+      <link>http://localhost:1313/blog/cyberforce/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/cyberforce/</guid>
+      <description>Cyberforce DOE competition</description>
+    </item>
+    <item>
+      <title>Cyberforce DOE</title>
+      <link>http://localhost:1313/projects/cyberforce-doe/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cyberforce-doe/</guid>
+      <description>Autonomous car using Raspberry Pi, YOLO, NCNN models, Coral USB accelerator.</description>
+    </item>
+    <item>
+      <title>Mini Pilot</title>
+      <link>http://localhost:1313/projects/mini-pilot/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mini-pilot/</guid>
+      <description>Autonomous car using Raspberry Pi, YOLO, NCNN models, Coral USB accelerator.</description>
+    </item>
+    <item>
+      <title>Palettable</title>
+      <link>http://localhost:1313/projects/palettable/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/palettable/</guid>
+      <description>Art social media web app promoting collaboration for artists</description>
+    </item>
+    <item>
+      <title>Paokinator</title>
+      <link>http://localhost:1313/projects/paokinator/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/paokinator/</guid>
+      <description>Machine learning project clone of Akinator</description>
+    </item>
+    <item>
+      <title>Pytorch-Classification</title>
+      <link>http://localhost:1313/projects/pytorch-classification/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pytorch-classification/</guid>
+      <description>Machine learning using Pytorch for classifying dogs vs cats</description>
+    </item>
+    <item>
+      <title>SchedulEase</title>
+      <link>http://localhost:1313/projects/schedulease/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/schedulease/</guid>
+      <description>Seamless web application to schedule events using the Google API</description>
+    </item>
+    <item>
+      <title>War Running</title>
+      <link>http://localhost:1313/projects/war-running/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/war-running/</guid>
+      <description>WiFi beacon scanning extracts information like SSID, BSSID, Encryption, and channel</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;My name is The Dude. I have the following qualities:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I rock a great beard&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;m extremely loyal to my friends&lt;/li&gt;&#xA;&lt;li&gt;I like bowling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;That rug really tied the room together.&lt;/p&gt;&#xA;&lt;h3 id=&#34;my-history&#34;&gt;my history&lt;/h3&gt;&#xA;&lt;p&gt;To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you&#xA;just watch &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Big_Lebowski&#34;&gt;my movie&lt;/a&gt; and it&#xA;will answer &lt;strong&gt;all&lt;/strong&gt; your questions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

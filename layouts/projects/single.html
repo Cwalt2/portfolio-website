@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article class="project-page">
+<h1>{{ .Title }}</h1>
+<p class="meta">Published {{ .Date.Format .Site.Params.dateFormat }}</p>
+<img src="{{ .Params.image }}" alt="{{ .Title }}" />
+<div class="content">{{ .Content }}</div>
+{{ if .Params.repo }}<p>Repository: <a href="{{ .Params.repo }}">{{ .Params.repo }}</a></p>{{ end }}
+</article>
+{{ end }}

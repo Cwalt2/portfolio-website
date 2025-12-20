@@ -1,0 +1,38 @@
+{{ define "main" }}
+<section class="hero">
+<h1>{{ .Site.Title }}</h1>
+<p>{{ .Site.Params.description }}</p>
+<div class="cta">
+<a class="btn" href="/projects/">View Projects</a>
+<a class="btn ghost" href="/resume/">Download resume</a>
+</div>
+</section>
+
+<h1>Projects</h1>
+<section class="projects-grid">
+{{ range where .Site.RegularPages "Section" "projects" }}
+<article class="project">
+<a href="{{ .RelPermalink }}">
+<img src="{{ .Params.image }}" alt="{{ .Title }}" />
+<h3>{{ .Title }}</h3>
+<p>{{ .Params.summary }}</p>
+</a>
+</article>
+{{ end }}
+</section>
+
+<hr>
+
+<h1>Blogs</h1>
+<section class="blogs-grid">
+{{ range where .Site.RegularPages "Section" "blog" }}
+<article class="blog">
+<a href="{{ .RelPermalink }}">
+<img src="{{ .Params.image }}" alt="{{ .Title }}" />
+<h3>{{ .Title }}</h3>
+<p>{{ .Params.summary }}</p>
+</a>
+</article>
+{{ end }}
+</section>
+{{ end }}
