@@ -1,0 +1,136 @@
+:root {
+--bg: #0b0b0d;
+--fg: #e5e5e5;
+--accent: #d90429;
+--accent-light: #ef233c;
+--max-width: 1100px;
+}
+
+
+body {
+background: var(--bg);
+color: var(--fg);
+font-family: Inter, system-ui, Arial, Helvetica, sans-serif;
+margin: 0;
+}
+
+a {
+    color:red;
+}
+
+.container {
+max-width: var(--max-width);
+margin: 0 auto;
+padding: 2rem;
+}
+
+
+.site-header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 1rem 2rem;
+border-bottom: 1px solid #222;
+background: #0f0f12;
+}
+
+
+.site-header a {
+color: var(--fg);
+text-decoration: none;
+}
+
+
+.hero {
+padding: 3rem 0;
+}
+
+
+.hero h1 {
+color: var(--accent);
+}
+
+
+.btn {
+display: inline-block;
+padding: .6rem 1rem;
+border-radius: 6px;
+background: var(--accent);
+color: #fff;
+text-decoration: none;
+}
+
+
+.btn.ghost {
+background: transparent;
+border: 1px solid var(--accent);
+color: var(--accent);
+}
+
+hr {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.projects-grid, .blogs-grid {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+gap: 1.25rem;
+}
+
+
+.project img, .project-card img, .blog img, .blog-card img {
+width: 100%;
+height: 10rem;
+object-fit: cover;
+border-radius: 0.75rem;
+}
+
+
+.project a, .project-card a, .blog a, .blog-card a {
+color: var(--fg);
+text-decoration: none;
+}
+
+
+.project h3, .project-card h3, .blog h3, .blog-card h3 {
+color: var(--accent-light);
+}
+
+
+.site-footer {
+padding: 2rem 0;
+border-top: 1px solid #222;
+text-align: center;
+color: var(--fg);
+}
+
+
+.project-page img, .blog-page img {
+width: 100%;
+border: 2px solid var(--accent);
+margin-bottom: 1.5rem;
+}
+
+.contact-card {
+  max-width: 420px;
+  padding: 1.5rem;
+  border-radius: 12px;
+  background: var(--card-bg, #111);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.contact-card h2 {
+  margin-top: 0;
+}
+
+.contact-card a {
+  color: #4da3ff;
+  text-decoration: none;
+}
+
+.projects-row .blog-row {
+  border: 10px solid red;
+  display: inline-block;
+  align-items: left;
+}
