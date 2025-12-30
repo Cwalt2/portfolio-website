@@ -1,4 +1,4 @@
-https://cwalt2.github.io/portfolio-website/
+baseURL = "https://cwalt2.github.io/portfolio-website/"
 languageCode = "en-us"
 title = "Christopher Walters — Portfolio"
 # Use minify
