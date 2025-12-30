@@ -4,6 +4,7 @@ date: 2025-05-21
 summary: "Machine learning using Pytorch for classifying dogs vs cats"
 image: "/img/pytorch-classification.png"
 skills: ["C#", "React", "Software Development"]
+draft: true
 repo: "https://github.com/.cwalt2/mini-pilot"
 ---
 

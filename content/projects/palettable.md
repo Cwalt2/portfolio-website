@@ -4,6 +4,7 @@ date: 2025-05-21
 summary: "Art social media web app promoting collaboration for artists"
 image: "/img/palettable.png"
 skills: ["C#", "React", "Software Development"]
+draft: true
 repo: "https://github.com/.cwalt2/mini-pilot"
 ---
 

@@ -5,6 +5,7 @@ summary: "WiFi beacon scanning extracts information like SSID, BSSID, Encryption
 image: "/img/war-running.jpeg"
 skills: ["Embedded Systems", "Python", "Networking", "Offensive Operations"]
 repo: "https://github.com/.cwalt2/mini-pilot"
+draft: true
 ---
 
 

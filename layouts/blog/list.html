@@ -4,6 +4,8 @@
   <h1>{{ .Title }}</h1>
   <p>{{ .Params.description }}</p>
 
+  <hr>
+
   <section>
     {{ range .Pages }}
       <article class="blog">
@@ -18,5 +20,7 @@
     {{ end }}
   </section>
 </section>
+
+<hr>
 
 {{ end }}

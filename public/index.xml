@@ -9,102 +9,11 @@
     <lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2025 Tinsel CTF for Universities</title>
-      <link>http://localhost:1313/blog/tinsel-ctf/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/tinsel-ctf/</guid>
-      <description>Capture the Flag based on different types of crypto puzzles</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/blog/aboutme/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/aboutme/</guid>
-      <description>A short about me</description>
-    </item>
-    <item>
       <title>Cyberforce DOE</title>
       <link>http://localhost:1313/projects/cyberforce-doe/</link>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/cyberforce-doe/</guid>
       <description>Autonomous car using Raspberry Pi, YOLO, NCNN models, Coral USB accelerator.</description>
-    </item>
-    <item>
-      <title>Homelab</title>
-      <link>http://localhost:1313/blog/homelab/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/homelab/</guid>
-      <description>Enterprise level server homelab setup and experimentation</description>
-    </item>
-    <item>
-      <title>Homelab Project</title>
-      <link>http://localhost:1313/projects/homelab-project/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/homelab-project/</guid>
-      <description>Homelab setup and experimentation using Docker and Unraid</description>
-    </item>
-    <item>
-      <title>Mini Pilot</title>
-      <link>http://localhost:1313/projects/mini-pilot/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/mini-pilot/</guid>
-      <description>Autonomous car using Raspberry Pi, YOLO, NCNN models, Coral USB accelerator.</description>
-    </item>
-    <item>
-      <title>Network Reconnaissance</title>
-      <link>http://localhost:1313/blog/network-scanning/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/network-scanning/</guid>
-      <description>Network scanning with embedded devices for portability</description>
-    </item>
-    <item>
-      <title>Palettable</title>
-      <link>http://localhost:1313/projects/palettable/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/palettable/</guid>
-      <description>Art social media web app promoting collaboration for artists</description>
-    </item>
-    <item>
-      <title>Paokinator</title>
-      <link>http://localhost:1313/projects/paokinator/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/paokinator/</guid>
-      <description>Machine learning project clone of Akinator</description>
-    </item>
-    <item>
-      <title>Project Title</title>
-      <link>http://localhost:1313/blog/cyberforce/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/cyberforce/</guid>
-      <description>One-sentence compelling summary that captures the essence and impact</description>
-    </item>
-    <item>
-      <title>Pytorch-Classification</title>
-      <link>http://localhost:1313/projects/pytorch-classification/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pytorch-classification/</guid>
-      <description>Machine learning using Pytorch for classifying dogs vs cats</description>
-    </item>
-    <item>
-      <title>SchedulEase</title>
-      <link>http://localhost:1313/projects/schedulease/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/schedulease/</guid>
-      <description>Seamless web application to schedule events using the Google API</description>
-    </item>
-    <item>
-      <title>Security&#43; Study Guide</title>
-      <link>http://localhost:1313/blog/security-plus/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/security-plus/</guid>
-      <description>Collection of notes and different strategies for the SY0-701 exam</description>
-    </item>
-    <item>
-      <title>War Running</title>
-      <link>http://localhost:1313/projects/war-running/</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/war-running/</guid>
-      <description>WiFi beacon scanning extracts information like SSID, BSSID, Encryption, and channel</description>
     </item>
   </channel>
 </rss>

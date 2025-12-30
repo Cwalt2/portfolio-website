@@ -4,6 +4,7 @@ date: 2025-05-21
 summary: "Machine learning project clone of Akinator"
 image: "/img/paokinator.png"
 skills: ["C#", "React", "Software Development"]
+draft: true
 repo: "https://github.com/.cwalt2/mini-pilot"
 ---
 

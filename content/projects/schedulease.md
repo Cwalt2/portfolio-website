@@ -4,6 +4,7 @@ date: 2025-05-21
 summary: "Seamless web application to schedule events using the Google API "
 image: "/img/schedulease.png"
 skills: ["Radzen", "Python", "C#", "FastAPI", "AI"]
+draft: true
 repo: "https://github.com/.cwalt2/mini-pilot"
 ---
 

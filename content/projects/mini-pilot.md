@@ -4,6 +4,7 @@ date: 2025-05-21
 summary: "Autonomous car using Raspberry Pi, YOLO, NCNN models, Coral USB accelerator."
 image: "/img/minipilot.png"
 skills: ["Python", "NCNN", "Raspberry Pi", "Computer Vision"]
+draft: true
 repo: "https://github.com/cwalt2/mini-pilot"
 ---
 
