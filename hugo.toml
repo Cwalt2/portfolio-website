@@ -1,7 +1,7 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Christopher Walters — Portfolio"
-theme = ""
+theme = "blank"
 # Use minify
 enableRobotsTXT = true
 
