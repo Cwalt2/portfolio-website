@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 <meta name="description" content="{{ .Site.Params.description }}">
-<link rel="stylesheet" href="https://cwalt2.github.io/portfolio-website/css/styles.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/styles.css">
 </head>
 <body>
 {{ partial "header.html" . }}
