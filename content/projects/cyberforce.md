@@ -2,7 +2,7 @@
 title: "Cyberforce DOE"
 date: 2025-05-21
 summary: "Autonomous car using Raspberry Pi, YOLO, NCNN models, Coral USB accelerator."
-image: "/img/cyberforce.jpg"
+image: "{{ .Site.BaseURL }}/img/cyberforce.jpg"
 skills: ["Python", "NCNN", "Raspberry Pi", "Computer Vision"]
 repo: "https://github.com/cwalt2/mini-pilot"
 ---
