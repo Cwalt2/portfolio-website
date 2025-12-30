@@ -1,8 +1,25 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
+<h1>Christopher Walters</h1>
 
 <div class="resume-container">
+
+    <a href="{{ .Site.Params.linkedin }}">LinkedIn</a>
+    <a href="{{ .Site.Params.github }}">GitHub</a>
+
+  <span id="email"></span>
+
+    <a href="/files/resume.pdf" download>
+      Download PDF
+    </a>
+  </p>
+
+
+  <script>
+    const user = "chris.waltersts";
+    const domain = "gmail.com";
+    document.getElementById("email").innerText = user + "@" + domain;
+  </script>
 
   {{ .Content }}
 

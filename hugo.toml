@@ -8,11 +8,10 @@ enableRobotsTXT = true
 
 [params]
 author = "Christopher Walters"
-description = "Cybersecurity engineer & embedded systems developer"
+description = "I am pssionate about Cybersecurity, IT, and Software Development. Feel free to look at my projects!"
 dateFormat = "Jan 2, 2006"
-github = "https://github.com/yourusername"
-linkedin = "https://www.linkedin.com/in/yourusername"
-email = "you@example.com"
+github = "https://github.com/cwalt2"
+linkedin = "https://www.linkedin.com/in/cwalt2"
 
 
 [outputs]

@@ -128,3 +128,9 @@ margin-bottom: 1.5rem;
   color: #4da3ff;
   text-decoration: none;
 }
+
+.projects-row .blog-row {
+  border: 10px solid red;
+  display: inline-block;
+  align-items: left;
+}

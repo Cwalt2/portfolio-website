@@ -3,10 +3,6 @@ title: "Resume"
 draft: false
 ---
 
-# Christopher Walters
-
-[github.com/cwalt2](https://github.com/cwalt2) • [linkedin.com/in/cwalt2](https://linkedin.com/in/cwalt2)
-
 ---
 
 ## Education
@@ -129,9 +125,3 @@ Hammond, LA | May 2025 – Present
 - Strengthened system security through input validation, secure token handling, and secret management.
 
 ---
-
-<p>
-  <a href="/files/resume.pdf" download>
-    Download PDF
-  </a>
-</p>

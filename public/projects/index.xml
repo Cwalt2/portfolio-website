@@ -16,6 +16,13 @@
       <description>Autonomous car using Raspberry Pi, YOLO, NCNN models, Coral USB accelerator.</description>
     </item>
     <item>
+      <title>Homelab Project</title>
+      <link>http://localhost:1313/projects/homelab-project/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/homelab-project/</guid>
+      <description>Homelab setup and experimentation using Docker and Unraid</description>
+    </item>
+    <item>
       <title>Mini Pilot</title>
       <link>http://localhost:1313/projects/mini-pilot/</link>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>

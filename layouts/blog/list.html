@@ -1,10 +1,10 @@
 {{ define "main" }}
 
-<section class="blog-page">
+<section class="blog-row">
   <h1>{{ .Title }}</h1>
   <p>{{ .Params.description }}</p>
 
-  <section class="blog-grid">
+  <section>
     {{ range .Pages }}
       <article class="blog">
         <a href="{{ .RelPermalink }}">

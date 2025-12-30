@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/blog/tinsel-ctf/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cyberforce/</loc>
+    <loc>http://localhost:1313/blog/aboutme/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/cyberforce-doe/</loc>
@@ -14,13 +17,25 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/homelab/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/homelab-project/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/mini-pilot/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/network-scanning/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/palettable/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/paokinator/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cyberforce/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
@@ -32,10 +47,11 @@
     <loc>http://localhost:1313/projects/schedulease/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/war-running/</loc>
+    <loc>http://localhost:1313/blog/security-plus/</loc>
     <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/projects/war-running/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/</loc>
   </url><url>
